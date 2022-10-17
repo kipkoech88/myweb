@@ -2,7 +2,7 @@
     text-align: center;
 } 
 .body{
-    background-image: url('https://mdbcdn.b-cdn.net/img/new/standard/city/041.webp');
+    padding-top: 50px;
 } 
 ul{
     text-decoration: none;
@@ -11,4 +11,37 @@ ul{
     text-align: center; 
     list-style-type: none; 
     max-width: 500px;
+}  
+.foot{
+    max-height: 200px;
 } 
+.flex{
+    display: flex; 
+    flex: 1; 
+    justify-content: space-between; 
+    flex-wrap: wrap;
+    padding: 20px;
+} 
+.center{
+    text-align: center; 
+    padding-bottom: 50px; 
+    padding-top: 50px; 
+} 
+a{
+    text-decoration: none;
+} 
+li{
+    padding: 20px; 
+} 
+h4{
+    font-family: cursive;
+} 
+p{
+    font-family: 'Courier New', Courier, monospace;
+} 
+hr{
+    border: navajowhite;
+} 
+nav{
+    padding-top: 20px;
+}
