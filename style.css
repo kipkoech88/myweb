@@ -44,4 +44,19 @@ hr{
 } 
 nav{
     padding-top: 20px;
+} 
+.img{
+    border-radius: 50%;
+} 
+.round{
+    border-radius: 50%;
+} 
+/*.cursive{
+    font-family: cursive;
+    font-size: x-large; 
+    text-decoration: dotted;
 }
+.box{
+    max-width: 400px;
+    height: auto;
+} */
